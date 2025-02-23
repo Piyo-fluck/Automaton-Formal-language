@@ -177,7 +177,7 @@ $circle.filled.small$ 集合\
 集合 $A$ と $B$ との要素を全てあわせた集合を $A$ と $B$ の#text(red)[合併集合]あるいは#text(red)[結び]といい、\
 $A union B = {x | x in A "または" x in B}$ である。\
 集合 $A$ と $B$ との共通集合すべての集合を#text(red)[共通集合]あるいは#text(red)[交わり]といい、\
-$A sect B = {x | x in A "または" x in B}$ である。\
+$A inter B = {x | x in A "または" x in B}$ である。\
 #block(
   fill: luma(20%),
   inset: 8pt,
